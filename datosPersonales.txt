@@ -1,3 +1,4 @@
 nombre: Roberto Carlos Vazquez
 ci:95112140327
 estatura: 180cm
+peso: 82kg
