@@ -3,3 +3,4 @@ ci:95112140327
 estatura: 180cm
 peso: 82kg
 color de piel: blanca
+pais: cuba
